@@ -56,7 +56,7 @@ export function PlantSave(){
                 subtitle: 'Fique tranquilo que sempre vamos lembrar você de cuidar da sua plantinha com muito cuidado.',
                 buttonTitle: 'Muito Obrigado :D',
                 icon: 'hug',
-                nextScreen: 'MyPlant'
+                nextScreen: 'MyPlants'
             });
         }catch{
             Alert.alert('Não foi possivel salvar. 😢')
